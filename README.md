@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### 🪴I am learning Java and C++
+### 😄 Pronouns: She/her
+### ⚡Fun fact: I play lacrosse!
 <!--
 **Ovester494/Ovester494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
